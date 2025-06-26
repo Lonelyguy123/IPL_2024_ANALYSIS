@@ -1,5 +1,3 @@
-# IPL_2024_ANALYSIS
-
 # 🏏 IPL 2024 Data Analysis with Power BI
 
 This project provides a comprehensive analysis of **IPL 2024** player and team performance using **Power BI** and player statistics. The report breaks down batting and bowling metrics across roles, styles, and match scenarios to uncover performance trends, patterns, and standout players from the season.
